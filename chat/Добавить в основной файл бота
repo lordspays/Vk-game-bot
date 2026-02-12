@@ -1,0 +1,4 @@
+from chat_admin_system import register_chat_admin_system
+
+# После создания dp
+register_chat_admin_system(dp)
